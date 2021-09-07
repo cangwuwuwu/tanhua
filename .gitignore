@@ -34,4 +34,4 @@ out
 gen
 /logs
 /src/test/
-/target/
+**/target/
